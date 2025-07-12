@@ -12,7 +12,7 @@ export const Projects = () => {
     description: 'A full‑stack MERN e‑commerce application with JWT auth, product filtering, admin dashboard and cart management.',
     stack: ["React", "Node.js", "MongoDB", "Redux", "JWT","Express Js","Tailwind Css","Cookies","Mongoose"],
     codeUrl: 'https://github.com/Abhiktd15/EcomWebsite',
-    demoUrl: ''  // add live demo link if available
+    demoUrl: 'https://ecom-website-gold.vercel.app/'  // add live demo link if available
   },
   {
     icon: 'https://github.com/user-attachments/assets/94284ebc-60a6-4c19-84c9-3fa5e19705af',
@@ -20,7 +20,7 @@ export const Projects = () => {
     description: 'A dynamic MERN blog platform allowing users to create, edit, delete posts, and read others’ blogs.',
     stack: ["React", "Node.js", "MongoDB", "Redux", "JWT-Authentication","Tailwind Css","Express Js"],
     codeUrl: 'https://github.com/Abhiktd15/BloggingWebsite',
-    demoUrl: ''
+    demoUrl: 'https://blogging-website-two-sand.vercel.app/'
   },
   {
     icon: 'https://github.com/user-attachments/assets/463f5725-8290-4c94-ab41-7132c3d8f066',
@@ -28,7 +28,7 @@ export const Projects = () => {
     description: 'A full‑featured job portal for seekers and employers with auth, job listing, and applications.',
     stack: ["React", "Node.js" ,"Express Js", "MongoDB","Mongoose", "JWT","Cookies","Tailwind Css","Redux"],
     codeUrl: 'https://github.com/Abhiktd15/JobPortalFrontend',
-    demoUrl: ''
+    demoUrl: 'https://job-portal-frontend-ochre.vercel.app/'
   },
   {
     icon: 'https://github.com/abhishekbahr/Budget-Tracking-App/assets/96624688/3ca0850e-970c-49e3-9470-e920b1edb914',
